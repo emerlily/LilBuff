@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Buffer.GBR   2019-03-05  12:41:59 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GTP                Top Paste                               
+.GPT                Top Pad Master                          
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GTO                Top Overlay                             
+.GBL                Bottom Layer                            
+.GPB                Bottom Pad Master                       
+.GBP                Bottom Paste                            
+.GKO                Keep-Out Layer                          
+.GM15               Mechanical 15                           
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM13               Mechanical 13                           
+------------------------------------------------------------------------------------------

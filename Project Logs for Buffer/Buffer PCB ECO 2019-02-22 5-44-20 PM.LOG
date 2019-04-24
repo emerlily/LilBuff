@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C1 Old Footprint=C0805 New Footprint=1206
+Change Component Footprint: Designator=R1 Old Footprint=J1-0603 New Footprint=1206
+Change Component Footprint: Designator=R2 Old Footprint=POT4MM-2 New Footprint=POT
+Added Class: Name=Buffer

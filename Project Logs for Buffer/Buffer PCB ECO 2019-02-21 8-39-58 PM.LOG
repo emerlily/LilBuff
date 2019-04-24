@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=AR1-1
+Removed Pin From Net: NetName=NetAR1_2 Pin=AR1-2
+Removed Pin From Net: NetName=GND Pin=AR1-3
+Removed Pin From Net: NetName=GND Pin=AR1-4
+Removed Pin From Net: NetName=GND Pin=AR1-5
+Removed Pin From Net: NetName=+12 Pin=AR1-7
+Removed Pin From Net: NetName=GND Pin=AR1-8
+Removed Pin From Net: NetName=GND Pin=AR2-1
+Removed Pin From Net: NetName=GND Pin=AR2-3
+Removed Pin From Net: NetName=GND Pin=AR2-4
+Removed Pin From Net: NetName=GND Pin=AR2-5
+Removed Pin From Net: NetName=OUTPUT Pin=AR2-6
+Removed Pin From Net: NetName=+12 Pin=AR2-7
+Removed Pin From Net: NetName=GND Pin=AR2-8
+Added Component: Designator=*(SO8)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetAR1_2 Pin=*-2
+Added Pin To Net: NetName=GND Pin=*-3
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=GND Pin=*-5
+Added Pin To Net: NetName=OUTPUT Pin=*-7
+Added Pin To Net: NetName=+12 Pin=*-8
+Change Net Name : Old Net Name=NetAR1_2 New Net Name=Net*_2
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-6
+Added Pin To Net: NetName=Net*_1 Pin=R1-2
+Added Net: Name=Net*_1
